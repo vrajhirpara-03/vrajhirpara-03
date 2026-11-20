@@ -4,7 +4,7 @@ AI/ML student at the **Institute of Advanced Research, Gandhinagar**. I build co
 
 🔍 **Looking for AI/ML internships** (hybrid or remote)
 
-## Featured project
+## Featured projects
 
 ### [FraudLens](https://github.com/vrajhirpara-03/FraudLens): credit card fraud detection
 
@@ -12,6 +12,12 @@ AI/ML student at the **Institute of Advanced Research, Gandhinagar**. I build co
 - Time-based train/validation/test split, duplicate removal, and thresholds chosen without touching the test set
 - Tested a gradient boosting model against the baseline; it didn't win, so the simpler model stayed
 - Python · scikit-learn · FastAPI · React
+
+### [MarketLens](https://github.com/vrajhirpara-03/MarketLens): AI market intelligence for e-commerce sellers
+
+- Collects live market data with SerpApi and turns it into evidence-backed reports with Google Gemini
+- Built for the SerpApi India Hackathon 2026 (Commerce & Market Intelligence track)
+- React · Node.js · Express · MongoDB · Firebase Auth
 
 ## Tech I use
 
